@@ -52,9 +52,11 @@
       <td align="center">Backend</td>
       <td>
         <div align="center">
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+          <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
+          <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <br/>
         </div>
       </td>
