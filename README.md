@@ -121,7 +121,6 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyujenius&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kyujenius" alt="Git stats" height="160px" /></a>
   <br/>
   <h2>☎️ Contact Me</h2>
