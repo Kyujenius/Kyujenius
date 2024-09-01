@@ -52,14 +52,9 @@
       <td align="center">Backend</td>
       <td>
         <div align="center">
-          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
-          &nbsp;
-          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
-          &nbsp;
-          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
-          &nbsp;
-          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg" />
-          &nbsp;
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
           <br/>
         </div>
       </td>
@@ -68,11 +63,9 @@
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
-            &nbsp;
-            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
-            &nbsp;
-            <br/>
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+            <img src="https://img.shields.io/badge/AWS-232f32?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+            <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
         </div>
       </td>
     </tr>
@@ -80,18 +73,12 @@
       <td align="center">Frontend & ETC</td>
       <td>
         <div>
-          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/HTML.svg" />
-          &nbsp;
-          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/CSS.svg" />
-          &nbsp;
-          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/JavaScript.svg" />
-          &nbsp;
-          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/React-Dark.svg" />
-          &nbsp;
-          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/NodeJS-Dark.svg" />
-          &nbsp;
-          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Redux.svg" />
-          <br/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
         </div>
       </td>
     </tr>
