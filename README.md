@@ -112,7 +112,7 @@
     <tr>
       <td><a href="https://github.com/donggukthon/donggukthon_2023_1_F">Heckathon</a></td>
       <td>인프런 x 동국톤</td>
-      <td>3nd Award</td>
+      <td>3rd Award</td>
       <td>2023.12</td>
     </tr>
   </table>
