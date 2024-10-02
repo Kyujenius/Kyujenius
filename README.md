@@ -15,6 +15,12 @@
       <th>Period</th>
     </tr>
     <tr>
+      <td>9oormthon.univ</td>
+      <td><a href="https://github.com/Gooaein/GoojilGoojil-FE">구질구질</a></td>
+      <td>Web Project, Front-End Lead Engineering</td>
+      <td>2024.09.23~2024.09.29</td>
+    </tr>
+    <tr>
       <td>Dongguk Univ.</td>
       <td><a href="https://github.com/PROMAplatform/Proma_front">PROMA</a></td>
       <td>Web Project, Front-End Lead Engineering</td>
@@ -98,20 +104,26 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/PROMAplatform/Proma_front">Capstone</a></td>
-      <td>캡스톤 디자인 벨류업</td>
+      <td><a href="https://github.com/Gooaein/GoojilGoojil-FE">Heckathon</a></td>
+      <td>2024 구름톤 연합 해커톤</td>
+      <td>2nd Award</td>
+      <td>2024.09</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PROMAplatform/Proma_front">Capstone Design</a></td>
+      <td>캡스톤 디자인 벨류업</td>
       <td>2nd Award</td>
       <td>2024.08</td>
     </tr>
     <tr>
       <td><a href="https://github.com/PROMAplatform/Proma_front">Heckathon</a></td>
-      <td>Camputhon</td>
+      <td>Camputhon</td>
       <td>1st Award</td>
       <td>2024.07</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/donggukthon/donggukthon_2023_1_F">Heckathon</a></td>
-      <td>인프런 x 동국톤</td>
+      <td><a href="https://github.com/donggukthon/donggukthon_2023_1_F">Heckathon</a></td>
+      <td>인프런 x 동국톤</td>
       <td>3rd Award</td>
       <td>2023.12</td>
     </tr>
