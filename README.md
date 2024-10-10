@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td>Bubble</td>
-      <td><a href="https://github.com/Gooaein/GoojilGoojil-FE](https://github.com/proj-poppin/.github">팝핀: 맞춤형 팝업 스토어 추천</a></td>
+      <td><a href="https://github.com/proj-poppin/.github">팝핀: 맞춤형 팝업 스토어 추천</a></td>
       <td>App Project, Front-End Engineering</td>
       <td>2024.10.10~</td>
     </tr>
