@@ -139,6 +139,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kyujenius" alt="Git stats" height="160px" /></a>
   <br/>
   <h2>☎️ Contact Me</h2>
+  <a href="https://www.notion.so/ff9fdea45f2f449bb0a75c122801b4b9"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://www.instagram.com/999999999jin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/999999999jin/"/></a>
   <a href="mailto:hkj020607@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hkj020607@gmail.com"/></a>
 </div>
