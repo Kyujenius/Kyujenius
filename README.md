@@ -18,7 +18,7 @@
       <td>Bubble</td>
       <td><a href="https://github.com/proj-poppin/.github">팝핀: 맞춤형 팝업 스토어 추천</a></td>
       <td>App Project, Front-End Engineering</td>
-      <td>2024.10.10~</td>
+      <td>2024.09.01~</td>
     </tr>
     <tr>
       <td>9oormthon.univ</td>
