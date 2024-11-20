@@ -107,19 +107,25 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gooaein/GoojilGoojil-FE">Heckathon</a></td>
+      <td><a href="https://github.com/PROMAplatform/Proma_front">과학기술정보통신부</a></td>
+      <td>2024년 공개SW 개발자 대회</td>
+      <td>3rd Award</td>
+      <td>2024.11</td>
+    </tr>
+    <tr>
+      <td><a href="https://9oormthon.university/">9oormthon.univ</a></td>
       <td>2024 구름톤 연합 해커톤</td>
       <td>2nd Award</td>
       <td>2024.09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PROMAplatform/Proma_front">Capstone Design</a></td>
+      <td><a href="https://linc.dongguk.edu/">동국대학교 Linc 3.0</a></td>
       <td>캡스톤 디자인 벨류업</td>
       <td>2nd Award</td>
       <td>2024.08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PROMAplatform/Proma_front">Heckathon</a></td>
+      <td><a href="https://ai.dongguk.edu/main">동국대학교 AI 융합학부</a></td>
       <td>Camputhon</td>
       <td>1st Award</td>
       <td>2024.07</td>
