@@ -31,6 +31,5 @@
 
 <div align="start">
   <h2>☎️ Contact Me</h2>
-  <a href="https://www.notion.so/ff9fdea45f2f449bb0a75c122801b4b9"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:hkj0206@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hkj0206@dgu.ac.kr"/></a>
 </div>
