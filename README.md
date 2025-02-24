@@ -21,7 +21,7 @@
 <div align="start">
     <h2>✨ Contributions</h2>
 
-
+* [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/157)
 * [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/142)
 * [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/136)
 
