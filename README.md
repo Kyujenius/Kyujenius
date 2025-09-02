@@ -1,13 +1,4 @@
 <div align="start">
-
-  <h2>🧐 About me</h2>
-
-- 📚 GDSC DGU 2기 Web/App Core member 로 활동중입니다.
-- 🤝 사람들과 소통하는 것을 잘하며, 함께 성장하는 환경을 좋아합니다.
-- 🌟 Taker 보다는 Giver가 되려 노력합니다.
-</div>
-
-<div align="start">
   <h2>🛠 Development Stack</h2>
           <div>
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
