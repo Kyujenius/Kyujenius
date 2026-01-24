@@ -10,12 +10,18 @@
 </div>
 
 <div align="start">
-    <h2>✨ Contributions</h2>
+<h2>✨ Contributions</h2>
   
-* [toss/es-toolkit](https://github.com/toss/es-toolkit/pull/971)
-* [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/157)
-* [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/142)
-* [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pull/136)
+<h3>Tanstack</h3>
+  
+* [Tanstack/form - fix(form-core): flatten errors consistently when validating before field mount](https://github.com/TanStack/form/pull/2003)
+  
+<h3>Toss</h3>
+  
+* [toss/es-toolkit - feat(sortedIndexOf): Implement compat/sortedIndexOf](https://github.com/toss/es-toolkit/pull/971)
+* [toss/frontend-fundamentals - feat: Optimize LightHouse Performance, Practice Point](https://github.com/toss/frontend-fundamentals/pull/157)
+* [toss/frontend-fundamentals - fix: change LCP image from png to webp](https://github.com/toss/frontend-fundamentals/pull/142)
+* [toss/frontend-fundamentals - feat: pwa-favicon-detail](https://github.com/toss/frontend-fundamentals/pull/136)
 
 
 </div>
