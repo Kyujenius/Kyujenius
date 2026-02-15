@@ -15,6 +15,7 @@
 <h3>Tanstack</h3>
   
 * [Tanstack/form - fix(form-core): flatten errors consistently when validating before field mount](https://github.com/TanStack/form/pull/2003)
+* [Tanstack/router- fix(react-router): remove async/defer attributes during hydration](https://github.com/TanStack/router/pull/6479)
   
 <h3>Toss</h3>
   
